@@ -1,0 +1,56 @@
+.adjnavbar {
+  height: 56px;
+  width: 100%;
+}
+/* cart.php checkout.php index.php order.php comm.php revise.php*/
+
+.table-img-height {
+  height: 100px;
+}
+/* cart.php checkout.php*/
+
+.table-price {
+  width: 10%;
+}
+/* cart.php */
+
+.table-qty {
+  width: 10%;
+}
+/* cart.php */
+
+.table-subtotal {
+  width: 10%;
+}
+/* cart.php */
+
+.table-change {
+  width: 80px;
+}
+/* cart.php */
+
+.inputqty {
+  width: 40px;
+}
+/* cart.php */
+
+@media screen and (max-width: 576px) {
+  .comm-img {
+    display: none;
+  }
+}
+/* cart.php */
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+/* cart.php */
+
+.spanwidth {
+  width: 90px;
+  text-align-last: justify;
+  display: inline-block;
+}
+/*addadmin.php checkout.php */

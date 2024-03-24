@@ -1,0 +1,60 @@
+.row {
+  padding-left: 0;
+  padding-right: 0;
+  --bs-gutter-x: 0;
+}
+
+.menu {
+  width: 80%;
+  margin: auto;
+}
+
+.categorybar {
+  /* background-color: aqua; */
+  text-align: center;
+  padding: 0;
+}
+.catebox {
+  display: inline-block;
+  width: 200px;
+  border: 3px solid brown;
+}
+.breadc {
+  background-color: blueviolet;
+}
+
+.commodity {
+  width: 100%;
+  background-color: burlywood;
+}
+
+.comcard {
+  display: block;
+  width: 23%;
+  background-color: brown;
+}
+
+.page {
+  background-color: cornflowerblue;
+  width: max-content;
+  margin: auto;
+}
+.pppp {
+  background-color: cornflowerblue;
+}
+
+.card {
+  display: inline-block;
+  width: 23%;
+}
+
+.card img {
+  width: 100%;
+  object-fit: cover;
+  border: 10px black solid;
+}
+
+.search {
+  width: 80%;
+  margin: auto;
+}
